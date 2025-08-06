@@ -1,0 +1,34 @@
+---
+title: "r-vectors"
+format: html
+editor: visual
+---
+
+```{r}
+marmots <- c("blue", "green",4, "yellow")
+#return it
+marmots
+```
+
+```{r}
+#check the class
+class(marmots)
+```
+```{r}
+pika <- c(12.4, 6.8, 2.9, 8.8, 5)
+#return it
+pika
+```
+```{r}
+#create the integer vector ---
+bear <- c(20L, 3L, 5L, 18L, 23L)
+bear
+```
+```{r}
+#create two vectors ----
+ringtail <- c(4.3, 8.9, 2.6, 7.1)
+f
+```
+
+
+
